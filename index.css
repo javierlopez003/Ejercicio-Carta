@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(255, 98, 67);
+    border-radius: 5px;
+}
+
+p{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+address{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+h1 {
+    color: aliceblue;
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: black;
+}
+
+h2{
+    color: black;
+}
+
+li{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+dd{
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
